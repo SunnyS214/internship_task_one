@@ -1,6 +1,7 @@
 screenhots of the task
 top
-<img width="1350" height="368" alt="image" src="https://github.com/user-attachments/assets/42953658-9b14-4dba-9f8f-e7103240300d" />
+<img width="1347" height="492" alt="image" src="https://github.com/user-attachments/assets/bc402f77-d576-4f81-aedb-616f1eb18a54" />
+
 
 
 bottom
